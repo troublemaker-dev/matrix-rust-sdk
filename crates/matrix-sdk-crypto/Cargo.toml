@@ -71,7 +71,7 @@ serde_json.workspace = true
 sha2.workspace = true
 subtle = "2.6.1"
 thiserror.workspace = true
-time = { version = "0.3.42", features = ["formatting"] }
+time = { version = "0.3.47", features = ["formatting"] }
 tokio.workspace = true
 tokio-stream = { workspace = true, features = ["sync"] }
 tracing = { workspace = true, features = ["attributes"] }
